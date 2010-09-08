@@ -7,6 +7,6 @@ setup(name='pyfacebook',
       description='Python Client Library for the Facebook API',
       author='Samuel Cormier-Iijima',
       author_email='sciyoshi@gmail.com',
-      url='http://code.google.com/p/pyfacebook',
-      packages=['facebook', 'facebook.djangofb',
-          'facebook.djangofb.default_app'])
+      url='http://github.com/alanzoppa/pyfacebook',
+      packages=['pyfacebook', 'pyfacebook.djangofb',
+          'pyfacebook.djangofb.default_app'])
